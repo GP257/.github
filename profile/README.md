@@ -4,7 +4,7 @@ This class to teach HPC skills aimed mainly at the geosciences.
 
 ## Labs
 
-<<<<<<< HEAD
+
 - [basic python](https://github.com/GP257/basic_python)
 - [Object Orriented Python](https://github.com/GP257/ooo)
 - [terraform](https://github.com/GP257/vms-terraform)
@@ -45,4 +45,4 @@ Fantine Huot helped TA the 2019 version of the class and helped construct the [l
 
 
 Even older labs can be found [here](https://github.com/GP257/older_labs)
->>>>>>> 3f483c4d5fd84ba84faf57a80ad2a3417f10e860
+
